@@ -1,4 +1,4 @@
 /* used to set a different logo */
-.sidebar__logo .sidebar__logo__character img {
+.sidebar__logo__character {
     content: url(https://i.ibb.co/SVMBHTM/unnamed.png);
 }
